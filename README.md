@@ -3,5 +3,5 @@ Proyecto Integrador de la clase de Sistemas Embebidos, donde usamos una sistema 
 
 El código de la página web donde se muestran los datos registros de empleados se encuentra en el repositorio https://github.com/OMEGA003/Control_Acceso_RFID
 
-Video de funcionamientod:
+Video de funcionamiento:
 https://youtu.be/paTf7T9SwuY
